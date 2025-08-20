@@ -157,7 +157,7 @@ TW_USE_MODEL_HARDWARE_ID_FOR_DEVICE_ID := true
 TW_BACKUP_EXCLUSIONS := /data/fonts
 TW_NO_CPU_TEMP := true
 TW_EXTRA_LANGUAGES := true
-TW_DEVICE_VERSION := TND-14-C001
+TW_DEVICE_VERSION := Galaxy A16 5G
 
 # Battery correct percentage
 TW_CUSTOM_BATTERY_PATH := /sys/class/power_supply/battery/capacity
